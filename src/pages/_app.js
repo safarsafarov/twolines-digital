@@ -1,7 +1,6 @@
 import React from "react";
 import Script from "next/script";
 import Head from "next/head";
-import LoadingScreen from "../components/Loading-Screen/loading-screen ";
 import { useRouter } from "next/router";
 import "../styles/main.scss";
 
@@ -186,7 +185,7 @@ function MyApp({ Component, pageProps }) {
           <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
         </svg>
       </div> */}
-      <Script id="pace" src="/js/pace.min.js"></Script>
+      {/* <Script id="pace" src="/js/pace.min.js"></Script> */}
       <Script id="wow" src="/js/wow.min.js"></Script>
       <Script id="bootstrap" src="/js/bootstrap.min.js"></Script>
       <Script
