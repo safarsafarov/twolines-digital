@@ -4,7 +4,7 @@ import FullTestimonials from "../../components/Full-testimonials/full-testimonia
 import CallToAction from "../../components/Call-to-action/call-to-action";
 import Footer from "../../components/Footer/footer";
 import Team from "../../components/Team2/team2";
-import Services from "../../components/services2/services2";
+import Services2 from "../../components/services2/services2";
 import DarkTheme from "../../layouts/Dark";
 import Works3 from "../../components/Works3/works3";
 import Intro4 from "../../components/Intro4/intro4";
@@ -36,7 +36,7 @@ const Homepage5 = () => {
       <Intro4 />
       <AboutUs3 />
       <Works3 />
-      <Services />
+      <Services2 />
       <MinimalArea2 />
       <FullTestimonials classText="pb-0" />
       <Team />

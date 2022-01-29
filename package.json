@@ -28,5 +28,9 @@
     "eslint": "7.32.0",
     "eslint-config-next": "12.0.4",
     "eslint-config-prettier": "^8.3.0"
+  },
+  "engines": {
+    "node": "v16.13.1",
+    "npm": "8.1.2"
   }
 }
