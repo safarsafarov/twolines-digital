@@ -79,8 +79,7 @@ const WorksStyle2 = ({ grid: grid1 , hideFilter , filterPosition  })=>{
                                     className: "wow color-font",
                                     children: [
                                         "Our Recent Web Design & ",
-                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("br", {
-                                        }),
+                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("br", {}),
                                         " Some Past Projects."
                                     ]
                                 })

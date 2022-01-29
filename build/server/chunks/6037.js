@@ -557,25 +557,17 @@ const Homepage5 = ()=>{
                 nr: navbarRef,
                 lr: logoRef
             }),
-            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Intro4_intro4__WEBPACK_IMPORTED_MODULE_10__/* ["default"] */ .Z, {
-            }),
-            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_About_us3_about_us3__WEBPACK_IMPORTED_MODULE_11__/* ["default"] */ .Z, {
-            }),
-            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Works3_works3__WEBPACK_IMPORTED_MODULE_9__/* ["default"] */ .Z, {
-            }),
-            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_services2_services2__WEBPACK_IMPORTED_MODULE_7__/* ["default"] */ .Z, {
-            }),
-            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Minimal_Area2_minimal_area2__WEBPACK_IMPORTED_MODULE_12__/* ["default"] */ .Z, {
-            }),
+            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Intro4_intro4__WEBPACK_IMPORTED_MODULE_10__/* ["default"] */ .Z, {}),
+            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_About_us3_about_us3__WEBPACK_IMPORTED_MODULE_11__/* ["default"] */ .Z, {}),
+            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Works3_works3__WEBPACK_IMPORTED_MODULE_9__/* ["default"] */ .Z, {}),
+            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_services2_services2__WEBPACK_IMPORTED_MODULE_7__/* ["default"] */ .Z, {}),
+            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Minimal_Area2_minimal_area2__WEBPACK_IMPORTED_MODULE_12__/* ["default"] */ .Z, {}),
             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Full_testimonials_full_testimonials__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .Z, {
                 classText: "pb-0"
             }),
-            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Team2_team2__WEBPACK_IMPORTED_MODULE_6__/* ["default"] */ .Z, {
-            }),
-            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Call_to_action_call_to_action__WEBPACK_IMPORTED_MODULE_4__/* ["default"] */ .Z, {
-            }),
-            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Footer_footer__WEBPACK_IMPORTED_MODULE_5__/* ["default"] */ .Z, {
-            })
+            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Team2_team2__WEBPACK_IMPORTED_MODULE_6__/* ["default"] */ .Z, {}),
+            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Call_to_action_call_to_action__WEBPACK_IMPORTED_MODULE_4__/* ["default"] */ .Z, {}),
+            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Footer_footer__WEBPACK_IMPORTED_MODULE_5__/* ["default"] */ .Z, {})
         ]
     }));
 };

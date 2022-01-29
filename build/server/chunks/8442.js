@@ -132,8 +132,7 @@ const ContactForm = ()=>{
                                     children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("h6", {
                                         children: [
                                             form_info_namespaceObject.xh.P,
-                                            /*#__PURE__*/ jsx_runtime_.jsx("br", {
-                                            }),
+                                            /*#__PURE__*/ jsx_runtime_.jsx("br", {}),
                                             form_info_namespaceObject.xh.E
                                         ]
                                     })
@@ -234,8 +233,7 @@ const ContactHeader = ({ sliderRef , blackStar  })=>{
                                         children: [
                                             contact_header_namespaceObject.T.P,
                                             " ",
-                                            /*#__PURE__*/ jsx_runtime_.jsx("br", {
-                                            }),
+                                            /*#__PURE__*/ jsx_runtime_.jsx("br", {}),
                                             contact_header_namespaceObject.T.E
                                         ]
                                     }),

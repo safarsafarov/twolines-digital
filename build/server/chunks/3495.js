@@ -124,8 +124,7 @@ const AboutUs3 = ()=>{
                                             children: [
                                                 about_us3_namespaceObject.TN.P,
                                                 " ",
-                                                /*#__PURE__*/ jsx_runtime_.jsx("br", {
-                                                }),
+                                                /*#__PURE__*/ jsx_runtime_.jsx("br", {}),
                                                 " ",
                                                 about_us3_namespaceObject.TN.E
                                             ]
@@ -138,8 +137,7 @@ const AboutUs3 = ()=>{
                                             children: [
                                                 about_us3_namespaceObject.kQ.P,
                                                 " ",
-                                                /*#__PURE__*/ jsx_runtime_.jsx("br", {
-                                                }),
+                                                /*#__PURE__*/ jsx_runtime_.jsx("br", {}),
                                                 about_us3_namespaceObject.kQ.E
                                             ]
                                         })
@@ -154,8 +152,7 @@ const AboutUs3 = ()=>{
                                             })
                                         })
                                     }),
-                                    /*#__PURE__*/ jsx_runtime_.jsx("br", {
-                                    })
+                                    /*#__PURE__*/ jsx_runtime_.jsx("br", {})
                                 ]
                             })
                         })
@@ -604,8 +601,7 @@ const MinimalArea2 = ()=>{
                                         })
                                     })
                                 }),
-                                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("br", {
-                                })
+                                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("br", {})
                             ]
                         })
                     })
@@ -686,8 +682,7 @@ const Works3 = ()=>{
                                             className: "wow color-font",
                                             children: [
                                                 "Our Recent Web Design & ",
-                                                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("br", {
-                                                }),
+                                                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("br", {}),
                                                 " Some Past Projects."
                                             ]
                                         })

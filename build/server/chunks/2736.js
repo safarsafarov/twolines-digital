@@ -96,12 +96,9 @@ const Team = ()=>{
                                         /*#__PURE__*/ jsx_runtime_.jsx("h6", {
                                             children: "Our Staff"
                                         }),
-                                        /*#__PURE__*/ jsx_runtime_.jsx("span", {
-                                        }),
-                                        /*#__PURE__*/ jsx_runtime_.jsx("span", {
-                                        }),
-                                        /*#__PURE__*/ jsx_runtime_.jsx("span", {
-                                        })
+                                        /*#__PURE__*/ jsx_runtime_.jsx("span", {}),
+                                        /*#__PURE__*/ jsx_runtime_.jsx("span", {}),
+                                        /*#__PURE__*/ jsx_runtime_.jsx("span", {})
                                     ]
                                 }),
                                 /*#__PURE__*/ jsx_runtime_.jsx("h3", {
