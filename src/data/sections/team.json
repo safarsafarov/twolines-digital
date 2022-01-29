@@ -1,0 +1,45 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "image": "/img/team/1.jpg",
+      "title": "Safarmurod Safarov",
+      "sub": "CEO, TwoLines Digital"
+    },
+    {
+      "id": 2,
+      "image": "/img/team/2.jpg",
+      "title": "Alex Regelman",
+      "sub": "CEO, Colabrio Media"
+    },
+    {
+      "id": 3,
+      "image": "/img/team/3.jpg",
+      "title": "Stacey Stamper",
+      "sub": "CEO, Colabrio Media"
+    },
+    {
+      "id": 4,
+      "image": "/img/team/4.jpg",
+      "title": "Stephanie Lawrence",
+      "sub": "CEO, Colabrio Media"
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "text": "Website development",
+      "value": "98%"
+    },
+    {
+      "id": 2,
+      "text": "E-commerce",
+      "value": "80%"
+    },
+    {
+      "id": 3,
+      "text": "SEO",
+      "value": "80%"
+    }
+  ]
+}
