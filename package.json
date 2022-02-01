@@ -1,5 +1,5 @@
 {
-  "name": "twoLines-react",
+  "name": "TwoLines",
   "private": true,
   "scripts": {
     "dev": "next dev",
