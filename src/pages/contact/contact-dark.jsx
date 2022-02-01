@@ -44,18 +44,18 @@ const Contact = () => {
         <ContactHeader />
         <div className="main-content">
           <ContactForm />
-          <div className="map" id="ieatmaps" />
+          {/* <div className="map" id="ieatmaps" />
 
-          <Footer hideBGCOLOR />
+          <Footer hideBGCOLOR /> */}
         </div>
       </DarkTheme>
-      <Script id="map" strategy="afterInteractive" src="/js/map.js"></Script>
+      {/* <Script id="map" strategy="afterInteractive" src="/js/map.js"></Script>
       <Script
         id="google-map"
         async
         defer
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA5bpEs3xlB8vhxNFErwoo3MXR64uavf6Y&callback=initMap"
-      ></Script>
+      ></Script> */}
     </>
   );
 };
