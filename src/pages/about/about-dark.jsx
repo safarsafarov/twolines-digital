@@ -39,7 +39,7 @@ const About = () => {
       <AboutIntro />
       <Services style="4item" />
       <VideoWithTestimonials />
-      <SkillsCircle from="aboutPage" />
+      {/* <SkillsCircle from="aboutPage" /> */}
       <Team />
       <MinimalArea />
       <Clients theme="dark" />

@@ -34,12 +34,22 @@
     {
       "id": 2,
       "text": "E-commerce",
-      "value": "80%"
+      "value": "97%"
     },
     {
       "id": 3,
       "text": "SEO",
+      "value": "95%"
+    },
+    {
+      "id": 4,
+      "text": "Social Media Management",
       "value": "80%"
+    },
+    {
+      "id": 5,
+      "text": "Graphic Design",
+      "value": "94%"
     }
   ]
 }

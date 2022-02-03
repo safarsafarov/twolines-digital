@@ -88,7 +88,7 @@ const VideoWithTestimonials = () => {
                         <div className="author">
                           <h6 className="author-name ">Alex Regelman</h6>
                           <span className="author-details">
-                            Co-founder, Colabrio
+                            Co-founder, PanJob Media
                           </span>
                         </div>
                       </div>
