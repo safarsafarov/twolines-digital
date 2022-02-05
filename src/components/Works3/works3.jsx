@@ -86,7 +86,8 @@ const Works3 = () => {
                       centeredSlides: false,
                     },
                     991: {
-                      slidesPerView: 2,
+                      slidesPerView: 2.5,
+                      spaceBetween: 0,
                     },
                   }}
                 >
