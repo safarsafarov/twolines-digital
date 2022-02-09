@@ -122,12 +122,12 @@ const Works3 = () => {
                       </div>
                       <div className="cont">
                         <h6>
-                          <Link href="/project-details2/project-details2-dark">
+                          <Link href="/project-details2/project-details2-dark2">
                             Designed &amp; with ❤️
                           </Link>
                         </h6>
                         <h4>
-                          <Link href="/project-details2/project-details2-dark">
+                          <Link href="/project-details2/project-details2-dark2">
                             Premium Construction
                           </Link>
                         </h4>
@@ -144,12 +144,12 @@ const Works3 = () => {
                       </div>
                       <div className="cont">
                         <h6>
-                          <Link href="/project-details2/project-details2-dark">
+                          <Link href="/project-details2/project-details2-dark3">
                             art &amp; illustration
                           </Link>
                         </h6>
                         <h4>
-                          <Link href="/project-details2/project-details2-dark">
+                          <Link href="/project-details2/project-details2-dark3">
                             Inspiring new space
                           </Link>
                         </h4>
@@ -166,12 +166,12 @@ const Works3 = () => {
                       </div>
                       <div className="cont">
                         <h6>
-                          <Link href="/project-details2/project-details2-dark">
+                          <Link href="/project-details2/project-details2-dark4">
                             art &amp; illustration
                           </Link>
                         </h6>
                         <h4>
-                          <Link href="/project-details2/project-details2-dark">
+                          <Link href="/project-details2/project-details2-dark4">
                             Inspiring new space
                           </Link>
                         </h4>
@@ -188,12 +188,12 @@ const Works3 = () => {
                       </div>
                       <div className="cont">
                         <h6>
-                          <Link href="/project-details2/project-details2-dark">
+                          <Link href="/project-details2/project-details2-dark5">
                             art &amp; illustration
                           </Link>
                         </h6>
                         <h4>
-                          <Link href="/project-details2/project-details2-dark">
+                          <Link href="/project-details2/project-details2-dark5">
                             Inspiring new space
                           </Link>
                         </h4>
@@ -210,12 +210,12 @@ const Works3 = () => {
                       </div>
                       <div className="cont">
                         <h6>
-                          <Link href="/project-details2/project-details2-dark">
+                          <Link href="/project-details2/project-details2-dark6">
                             art &amp; illustration
                           </Link>
                         </h6>
                         <h4>
-                          <Link href="/project-details2/project-details2-dark">
+                          <Link href="/project-details2/project-details2-dark6">
                             Inspiring new space
                           </Link>
                         </h4>
