@@ -38,7 +38,7 @@ const ProjectDetails2Dark = () => {
         <ProjectIntroduction projectIntroductionData={ProjectDate.intro} />
         <ProjectGallery />
         <ProjectDescription projectDescriptionData={ProjectDate.description} />
-        <ProjectVideo projectVideoDate={ProjectDate} />
+        {/* <ProjectVideo projectVideoDate={ProjectDate} /> */}
         <NextProject />
         <Footer />
       </div>
