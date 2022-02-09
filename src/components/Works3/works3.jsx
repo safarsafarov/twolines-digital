@@ -69,7 +69,7 @@ const Works3 = () => {
                     delay: 2500,
                     disableOnInteraction: false,
                   }}
-                  speed={1000}
+                  speed={700}
                   breakpoints={{
                     320: {
                       slidesPerView: 1,
@@ -85,7 +85,7 @@ const Works3 = () => {
                       centeredSlides: false,
                     },
                     991: {
-                      slidesPerView: 2.5,
+                      slidesPerView: 3,
                       spaceBetween: 0,
                     },
                   }}
@@ -223,7 +223,6 @@ const Works3 = () => {
                     </div>
                   </SwiperSlide>
                 </Swiper>
-
                 <div
                   ref={navigationNextRef}
                   className="swiper-button-next swiper-nav-ctrl next-ctrl cursor-pointer"
