@@ -27,7 +27,7 @@ const Works3 = () => {
               <div className="sec-head">
                 <h6 className="wow fadeIn" data-wow-delay=".5s">
                   Portfolio
-                </h6>
+                </h6> 
                 <h3 className="wow color-font">
                   Our Recent Web Design &amp; <br /> Some Past Projects.
                 </h3>
