@@ -45,3 +45,4 @@ const ProjectDetails2Dark = () => {
 };
 
 export default ProjectDetails2Dark;
+
