@@ -4,7 +4,7 @@
   "clientURLLink": "#",
   "projectHeaderImage": "/img/portfolio/project2/bg.jpg",
   "videoLink": "https://vimeo.com/127203262",
-  "clientURLName": "Envato.com",
+  "clientURLName": "seopress.com",
   "date": "6 August 2019",
   "categories": [
     {
@@ -36,23 +36,23 @@
     }
   ],
   "intro": {
-    "content": "We are a Creative Agency & Startup Studio that provides Digital Products and Services turns to focus on client success. We specialize in user interface design, including front-end development which we consider to be an integral part.",
+    "content": "Optimize quickly and easily the SEO of your WordPress site",
     "spmList": [
       {
         "id": 1,
-        "name": "Aenean sollicitudin"
+        "name": "Minimal Design"
       },
       {
         "id": 2,
-        "name": "lorem quis bibendum auctor"
+        "name": "Quick delivery"
       },
       {
         "id": 31,
-        "name": "nisi elit conseq uat ipsum"
+        "name": "AI Bot"
       },
       {
         "id": 4,
-        "name": "nec sagittis sem nibh id elit"
+        "name": "CDN"
       }
     ]
   },
