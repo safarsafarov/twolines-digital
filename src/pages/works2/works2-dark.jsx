@@ -35,6 +35,8 @@ const WorksDark = () => {
     });
   }, [fixedHeader, MainContent, navbarRef]);
 
+
+  
   return (
     <DarkTheme>
       <div className="circle-bg">
